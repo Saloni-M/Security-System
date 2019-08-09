@@ -1,0 +1,2 @@
+# Security-System
+The Three-Level Password Authentication System that validates user for accessing the system only when they have input correct password. The project involves three levels of user authentication. It contains three logins having three different kinds of password system. The password difficulty increases with each level. Users have to input correct password for successful login. The project comprises of text password i.e. pass phrase, One Time Password(OTP) and Captcha for the three levels respectively.
